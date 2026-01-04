@@ -5,7 +5,7 @@
 ### Full-Stack Developer | AI Engineer | The "Go-to" Guy
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Shipping+Products+That+Matter">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Shipping+Products+That+Matter">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Shipping+Products+That+Matter" alt="Typing Animation">
 </picture>
 
@@ -140,18 +140,18 @@ const pratham = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
+<!-- ## 📊 GitHub Analytics -->
+<!--
+<div align="center"> -->
 <!-- <a href="https://github.com/pratham27-pro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham27-pro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" loading="lazy"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham27-pro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" loading="lazy"/>
 </a>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=pratham27-pro&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" loading="lazy"/>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pratham27-pro&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" loading="lazy"/>
@@ -229,7 +229,7 @@ npx pratham_jain
 
 <div align="center">
 
-### 💡 "Talk is cheap. Show me the code." - Linus Torvalds
+### 💡 “Code is read much more often than it is written.” – Guido Van Rossum
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratham27-pro&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
