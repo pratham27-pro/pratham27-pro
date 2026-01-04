@@ -1,37 +1,249 @@
-<h1 align="center">Hi 👋, I'm Pratham Jain</h1>
-<h3 align="center">A passionate MERN stack developer from India. Soon diving into Data Science ;-)</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham27-pro&label=Profile%20views&color=0e75b6&style=flat" alt="pratham27-pro" /> </p>
+# ✨ import PrathamJain from './awesome😎'
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham27-pro" alt="pratham27-pro" /></a> </p>
+### Full-Stack Developer | AI Engineer | The "Go-to" Guy
 
-- 💬 Ask me about **React, Node, MongoDB or any web development stuff. XD**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Shipping+Products+That+Matter">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Systems;Shipping+Products+That+Matter" alt="Typing Animation">
+</picture>
 
-- ⚡ Fun fact **You're visiting this repository for the first and the last time. ;-(**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratham-jain-46645b325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratham-jain-46645b325/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/mr-pratham_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mr-pratham_27/" height="30" width="40" /></a>
-</p>
+---
 
-👇 Hit in your console or terminal to connect with me.
+## 🚀 About Me
+
+I'm a **Full-Stack Developer & AI Engineer** from India, building products that solve real problems. From designing scalable architectures to implementing cutting-edge AI solutions, I focus on shipping code that works and systems that scale.
+
+```javascript
+const pratham = {
+    role: "Full-Stack Developer & AI Engineer",
+    expertise: [
+        "GenAI",
+        "RAG Systems",
+        "LLMs",
+        "Machine Learning",
+        "System Design",
+    ],
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+        mobile: ["React Native", "Flutter"],
+        ai_ml: ["LangChain", "RAG", "TensorFlow", "Scikit-learn", "OpenAI API"],
+        tools: ["Docker", "Git", "AWS", "Kubernetes", "Postman"],
+    },
+    currentlyLearning: "System Design & Software Engineering at Scale",
+    workingOn: "Building production-ready AI applications",
+    askMeAbout: [
+        "MERN Stack",
+        "App Development",
+        "GenAI",
+        "System Design",
+        "Scalability",
+    ],
+    philosophy: "Ship fast, iterate faster 🚀",
+};
+```
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Development
+
+-   Building responsive, pixel-perfect UIs
+-   React, Next.js, TypeScript
+-   Modern CSS frameworks (Tailwind, Bootstrap)
+-   State management (Redux, Context API)
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Development
+
+-   RESTful API design & development
+-   Database design (MongoDB, PostgreSQL, MySQL)
+-   Authentication & Authorization
+-   Cloud deployment (AWS, Heroku)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Development
+
+-   Cross-platform app development
+-   React Native & Flutter
+-   Native-like performance
+-   App store deployment
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+-   Production-ready AI applications
+-   RAG (Retrieval-Augmented Generation)
+-   LLM integration & fine-tuning
+-   ML model deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI & ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+
+### Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<!-- <a href="https://github.com/pratham27-pro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham27-pro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" loading="lazy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham27-pro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" loading="lazy"/>
+</a>
+</div> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=pratham27-pro&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" loading="lazy"/>
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham27-pro&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" loading="lazy"/>
+</div> -->
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[Focus Areas] --> B[System Design]
+    A --> C[Software Engineering]
+    A --> D[AI Architecture]
+    B --> E[Scalable Systems]
+    C --> E
+    D --> E
+    E --> F[Production-Grade Solutions]
+```
+
+<div align="center">
+
+**🔥 Deep diving into:** Distributed Systems • Software Engineering Principles • Production AI Deployment
+
+**🎯 Mission:** Building systems that scale, products that ship
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 💼 Check out my complete portfolio for all my projects!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-3B82F6?style=for-the-badge&logoColor=white)](https://pratham-jain.vercel.app/)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pratham27-pro&theme=tokyo-night&hide_border=true&bg_color=0d1117&cache_seconds=86400">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham27-pro&theme=tokyo-night&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Contribution Graph">
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects and connect with fellow developers!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-jain-46645b325/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/u/mr-pratham_27/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratham-jain.vercel.app/)
+
+### 💻 Quick Connect
 
 ```bash
 npx pratham_jain
 ```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham27-pro&show_icons=true&locale=en&layout=compact" alt="pratham27-pro" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham27-pro&show_icons=true&locale=en" alt="pratham27-pro" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham27-pro&" alt="pratham27-pro" /></p>
+### 💡 "Talk is cheap. Show me the code." - Linus Torvalds
 
-## 📈 Graph
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+![Profile Views](https://komarev.com/ghpvc/?username=pratham27-pro&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Made with 💙 by [Pratham Jain](https://github.com/pratham27-pro)**
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer Wave" width="100%">
+</picture>
+
+</div>
