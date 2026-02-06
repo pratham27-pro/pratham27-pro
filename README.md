@@ -29,15 +29,23 @@ const pratham = {
     ],
     techStack: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-        mobile: ["React Native", "Flutter"],
-        ai_ml: ["LangChain", "RAG", "TensorFlow", "Scikit-learn", "OpenAI API"],
+        backend: [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "PostgreSQL",
+            "Django",
+            "FastAPI",
+            "Flask",
+        ],
+        mobile: ["React Native"],
+        ai_ml: ["LangChain", "RAG", "TensorFlow", "Scikit-learn", "LLM APIs"],
         tools: ["Docker", "Git", "AWS", "Kubernetes", "Postman"],
     },
     currentlyLearning: "System Design & Software Engineering at Scale",
     workingOn: "Building production-ready AI applications",
     askMeAbout: [
-        "MERN Stack",
+        "Full Stack",
         "App Development",
         "GenAI",
         "System Design",
@@ -80,7 +88,7 @@ const pratham = {
 ### 📱 Mobile Development
 
 -   Cross-platform app development
--   React Native & Flutter
+-   React Native
 -   Native-like performance
 -   App store deployment
 
@@ -114,6 +122,9 @@ const pratham = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases & Cloud
 
